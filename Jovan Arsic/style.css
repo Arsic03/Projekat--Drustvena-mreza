@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(51, 18, 63);
+  }
+
+/*  index strana */
+.card{
+    margin: 0 auto;   /* centriranje */
+    margin-top: 200px;  /* margina od vrha */
+    max-width: 400px;   /* max sirina kartice */
+}
+
+/* data_page strana */
+.centrirano {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    
+}
+
+.card.mb-3 {
+    margin-top: 15px;
+}
+
+.form-group{
+    padding-bottom: 10px;
+}
